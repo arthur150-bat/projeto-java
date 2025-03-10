@@ -76,10 +76,10 @@ public class semana_1 {
     }
     public static class doubletodoub {
         public static void main(String[] args) {
-        double a = 9.99999;
-        int valordob = (int) a;
-        System.out.println(a);
-        System.out.println(valordob);
+            double a = 9.99999;
+            int valordob = (int) a;
+            System.out.println(a);
+            System.out.println(valordob);
         }
     }
     public static class intconparse {
